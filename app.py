@@ -5,4 +5,4 @@ st.title("Moje první webová apka")
 
 name = st.text_input("Jak se jmenuješ?")
 if st.button("Pozdrav"):
-    st.write(f"Ahoj, {name} 👋")
+    st.write(f"nazdar, {name} 👋")
